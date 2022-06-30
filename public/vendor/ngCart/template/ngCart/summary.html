@@ -1,0 +1,10 @@
+<div class="car">
+    <div class="col-md-6 text-right">
+        <svg version="1.1"  class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" xml:space="preserve">
+</svg>
+    </div>
+    <div class="icon-header-item cl15 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="<% ngCart.getTotalItems() %>">
+        <i class="zmdi zmdi-shopping-cart"></i>
+        <% ngCart.totalCost() | currency %>đ
+    </div>
+</div>
