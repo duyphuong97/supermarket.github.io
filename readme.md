@@ -71,3 +71,40 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# supermarket.github.io" 
+
+
+## Building a system that is most convenient for managers to check errors, can monitor the working process and situation of the company, help customers buy references and buy products at any time. everywhere. Stemming from those facts, we decided to choose the topic "Building a sales and management system for supermarkets" with the aim of building a website with many functions to bring satisfaction and convenience. maximum for users when participating in the system.
+## Admin navigation page Administration
+![image](https://user-images.githubusercontent.com/65931654/177112213-18513ab0-31b4-42cc-ab0c-a61e03e679f1.png)
+## login page
+![image](https://user-images.githubusercontent.com/65931654/177112315-e1fbaea5-30c6-47a4-93e9-253eb59801d2.png)
+## Registration page
+![image](https://user-images.githubusercontent.com/65931654/177112425-ffbd7767-ddda-4de4-b5b1-b9988cffff06.png)
+## Home page admin for human resource management
+![image](https://user-images.githubusercontent.com/65931654/177112526-f31fdcc8-3218-42c5-8c01-966c00de04b4.png)
+## New staff page
+![image](https://user-images.githubusercontent.com/65931654/177114338-2dca4a71-4a11-4b06-852f-c5e67f5e832e.png)
+## Employee information update page
+![image](https://user-images.githubusercontent.com/65931654/177114606-9feaccb2-ba98-4401-940f-899e8ebefe8d.png)
+## Page to print the list of employees
+![image](https://user-images.githubusercontent.com/65931654/177114838-3095e2d8-85f4-4134-a010-8d6558118e7c.png)
+## Position management page: The position management page interface displays a list of positions. On this page, managers can add, edit, delete and search for the most needed positions, print the list of positions, export pdf files, excel the list of positions.
+![image](https://user-images.githubusercontent.com/65931654/177114943-13c13f7a-4695-41fd-8cd8-2984a1c01f7e.png)
+## New title page
+![image](https://user-images.githubusercontent.com/65931654/177115143-4a677808-56be-4f13-aa7d-eec535b0f07c.png)
+## Position update page
+![image](https://user-images.githubusercontent.com/65931654/177115235-de606eac-cc70-472e-b638-de14e66f8631.png)
+## Page to print job list
+![image](https://user-images.githubusercontent.com/65931654/177115314-e14a463a-9c68-43c1-83b6-9195e6dd92ce.png)
+## Product category management page: The interface of the product type management page displays a list of product types. On this page, the manager can add, edit, delete and search for the most necessary product types, print a list of product types, and produce a pdf file, excel a list of product types.
+![image](https://user-images.githubusercontent.com/65931654/177115475-08b39b23-5898-4858-8661-cc89928b2c72.png)
+## New page add product type
+![image](https://user-images.githubusercontent.com/65931654/177115762-31677f14-c1c1-460d-b5fd-7d319f2d0a3f.png)
+## Product category information update page
+![image](https://user-images.githubusercontent.com/65931654/177115879-68c4ff87-3bfd-4c8d-bee6-bd46ac2e5b4d.png)
+## The page prints the list of product types
+![image](https://user-images.githubusercontent.com/65931654/177116156-a6b14cad-d88e-45f0-b7ae-d373649bfa59.png)
+## Product management page: The interface of the product management page displays a list of products. On this page, the manager can add, edit, delete and search for the most necessary products, print the product list, produce pdf file, excel the product list.
+![image](https://user-images.githubusercontent.com/65931654/177116230-2a9467a4-9fac-4fb7-99b3-076b400c27bb.png)
+## New product page
+![image](https://user-images.githubusercontent.com/65931654/177116404-13ac4e87-4439-47ea-bb85-882fae765aef.png)
