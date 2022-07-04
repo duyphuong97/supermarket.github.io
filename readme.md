@@ -152,9 +152,9 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ![image](https://user-images.githubusercontent.com/65931654/177123634-2c90753e-9611-4e60-907d-a15f5bdb8b55.png)
 ![image](https://user-images.githubusercontent.com/65931654/177123653-02d3d67a-a509-48d2-a961-f935a464d3e0.png)
 ## Contact page: This page displays the company's information (name, address, phone number, email) so that customers can send email to contact the company when necessary.
-![image](https://user-images.githubusercontent.com/65931654/177123937-a149358c-c8f7-4459-a201-797fad383823.png)
-![image](https://user-images.githubusercontent.com/65931654/177123930-9093742f-7f23-4872-a9c6-0a7fe10d84a1.png)
-![image](https://user-images.githubusercontent.com/65931654/177123995-ee12704d-809f-4aae-90b1-e0b8687a1a0f.png)
+![image](https://user-images.githubusercontent.com/65931654/177125469-bc08fad8-07c1-441f-ab27-3c6cf420afd9.png)
+![image](https://user-images.githubusercontent.com/65931654/177125505-721903b7-93db-4d96-b421-5628373bbe82.png)
+![image](https://user-images.githubusercontent.com/65931654/177125547-ebe1f465-2013-4ab2-ad0c-751a886cfb45.png)
 ## Product detail page: This page displays detailed product information, helping customers to know details about the product, buy products in arbitrary quantities.
 ![image](https://user-images.githubusercontent.com/65931654/177124128-47efee9a-7a84-43f3-b824-2566b3fd7bbe.png)
 ## Cart: Display the items that the customer has purchased, allowing to remove the selected items from the cart
