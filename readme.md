@@ -138,3 +138,35 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ![image](https://user-images.githubusercontent.com/65931654/177122498-629e3cb7-1462-41fb-971f-1f56c660fca5.png)
 ## Order processing page in progress: After receiving a report from the shipping department, the accounting staff will close the order, classify the order into successfully delivered or canceled orders.
 ![image](https://user-images.githubusercontent.com/65931654/177122717-1d72952d-5d47-465f-87f8-4a4ddc01e780.png)
+## Order page delivered successfully: This page displays a list of successfully delivered orders, review order details
+![image](https://user-images.githubusercontent.com/65931654/177123160-41d34252-77fd-46e1-b4f8-5ed80472785f.png)
+## Order details page delivered successfully
+![image](https://user-images.githubusercontent.com/65931654/177123229-26f5f41e-3202-4bfb-ab1d-819cf13e33e6.png)
+## Delivery order page failed
+![image](https://user-images.githubusercontent.com/65931654/177123328-bdd7839e-2a3b-4636-8d42-03c15e250918.png)
+## Delivery order details page failed
+![image](https://user-images.githubusercontent.com/65931654/177123426-616ef89c-7cbb-4483-b20f-ee6825687010.png)
+## Home marketonline: This page allows customers to view information, search for products, buy products, check shopping carts, display product list, product information (prices, promotions, product details), contact the company ty
+![image](https://user-images.githubusercontent.com/65931654/177123576-87d189b3-596c-4342-873d-ff8b04af956a.png)
+![image](https://user-images.githubusercontent.com/65931654/177123606-f3a4ceee-9439-42b6-91ff-483abcb0e8c7.png)
+![image](https://user-images.githubusercontent.com/65931654/177123634-2c90753e-9611-4e60-907d-a15f5bdb8b55.png)
+![image](https://user-images.githubusercontent.com/65931654/177123653-02d3d67a-a509-48d2-a961-f935a464d3e0.png)
+## Contact page: This page displays the company's information (name, address, phone number, email) so that customers can send email to contact the company when necessary.
+![image](https://user-images.githubusercontent.com/65931654/177123937-a149358c-c8f7-4459-a201-797fad383823.png)
+![image](https://user-images.githubusercontent.com/65931654/177123930-9093742f-7f23-4872-a9c6-0a7fe10d84a1.png)
+![image](https://user-images.githubusercontent.com/65931654/177123995-ee12704d-809f-4aae-90b1-e0b8687a1a0f.png)
+## Product detail page: This page displays detailed product information, helping customers to know details about the product, buy products in arbitrary quantities.
+![image](https://user-images.githubusercontent.com/65931654/177124128-47efee9a-7a84-43f3-b824-2566b3fd7bbe.png)
+## Cart: Display the items that the customer has purchased, allowing to remove the selected items from the cart
+![image](https://user-images.githubusercontent.com/65931654/177124323-28c8f02d-882d-48e2-b8eb-42f6e5bf85a4.png)
+## Cart detail page: Display all the products that the customer has purchased, the customer can remove unnecessary products from the cart and proceed with the order.
+![image](https://user-images.githubusercontent.com/65931654/177124535-efded372-ffe3-47a1-80a9-a06e88411f81.png)
+## Order page: Customers who fill in the above information completely will not be able to place an order
+![image](https://user-images.githubusercontent.com/65931654/177124676-db14d416-0b56-483c-a7d5-1b8cb0179869.png)
+![image](https://user-images.githubusercontent.com/65931654/177124701-a3b8c22e-2ffd-4bde-abd4-36c5c96a831a.png)
+## Order completion page: After the customer successfully places an order, the system will send an email to notify the customer, and allow the customer to return to the homepage to continue purchasing.
+![image](https://user-images.githubusercontent.com/65931654/177124909-6117dc1d-7aaa-4986-afff-c06b74bbe030.png)
+## Customer order completion email
+![image](https://user-images.githubusercontent.com/65931654/177124982-64f28d96-cc8b-422e-8b8d-102bf364b4a0.png)
+## Customer contact email
+![image](https://user-images.githubusercontent.com/65931654/177125083-1aced1b3-b427-446d-ae61-a3379b99e5f7.png)
