@@ -108,3 +108,33 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ![image](https://user-images.githubusercontent.com/65931654/177116230-2a9467a4-9fac-4fb7-99b3-076b400c27bb.png)
 ## New product page
 ![image](https://user-images.githubusercontent.com/65931654/177116404-13ac4e87-4439-47ea-bb85-882fae765aef.png)
+## Product information update page
+![image](https://user-images.githubusercontent.com/65931654/177116807-b8fc8560-aa8f-40a3-a887-e462d5852004.png)
+## Product list printed page
+![image](https://user-images.githubusercontent.com/65931654/177116954-8b738082-54d9-4320-b025-e3d0da46c501.png)
+## Promotion management page: The interface of the promotion management page displays a list of promotions. On this page the manager can add, edit, delete and search for the most needed promotion
+![image](https://user-images.githubusercontent.com/65931654/177117081-d0559bd5-3e66-42b8-badf-44fbe27eb926.png)
+## New page add new promotion
+![image](https://user-images.githubusercontent.com/65931654/177117264-89bf997d-80aa-4359-a3ed-6d896894d304.png)
+## Promotional update page
+![image](https://user-images.githubusercontent.com/65931654/177117385-72a93751-1e42-4473-86f4-0d0a5379ae77.png)
+## Shipping management page:The interface of the shipping management page displays the shipping list. On this page the manager can add, edit, delete and search for the most needed shipping
+![image](https://user-images.githubusercontent.com/65931654/177117877-1c74a024-35a6-4a90-b15b-95d902a77c91.png)
+## New shipping page: Users only need to select a city, the system will automatically suggest related districts
+![image](https://user-images.githubusercontent.com/65931654/177118108-b3dc6c0f-eb8e-45a4-af86-b3768dabe0d7.png)
+## Shipping information update page
+![image](https://user-images.githubusercontent.com/65931654/177118349-ebf07295-6b84-41dd-a7d9-54f55929628e.png)
+## Order report: The chart is drawn according to the value of each invoice, the user can choose the date to declare the invoice
+![image](https://user-images.githubusercontent.com/65931654/177118613-47192497-4ea6-4f3f-9e3d-380cd4d23cf3.png)
+ ## Order management homepage: This page helps users manage by order type (pending order, delivery order, canceled order)
+ ![image](https://user-images.githubusercontent.com/65931654/177121799-0f5bed3d-6f22-4dce-b5a5-3f2e788e4b38.png)
+## Pending orders page: This page displays a list of pending orders, process orders, view order details
+![image](https://user-images.githubusercontent.com/65931654/177122077-bba3f271-5aec-4f52-8657-55b623a705b9.png)
+## Unprocessed order processing page: This page helps users to print orders, deliver them to the shipping department, and complete order processing
+![image](https://user-images.githubusercontent.com/65931654/177122274-790e1dfa-ef77-4dc1-83ec-6f4fab635abc.png)
+## order printing page
+![image](https://user-images.githubusercontent.com/65931654/177122348-92b75fa6-e3de-4b90-be62-2314b1e41326.png)
+## Orders are delivered page: This page displays the list of orders being delivered, after receiving the order status report from the shipping department, the accounting staff proceeds to process the order.
+![image](https://user-images.githubusercontent.com/65931654/177122498-629e3cb7-1462-41fb-971f-1f56c660fca5.png)
+## Order processing page in progress: After receiving a report from the shipping department, the accounting staff will close the order, classify the order into successfully delivered or canceled orders.
+![image](https://user-images.githubusercontent.com/65931654/177122717-1d72952d-5d47-465f-87f8-4a4ddc01e780.png)
